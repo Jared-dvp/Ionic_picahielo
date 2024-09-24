@@ -1,0 +1,7 @@
+{
+  "name": "sec_par_unicol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
